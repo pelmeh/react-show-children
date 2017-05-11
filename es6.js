@@ -23,7 +23,7 @@ class Child extends Component {
   }
 }
 
-export default class Base extends Component {
+export default class Show extends Component {
   const { style } = this.props
   render () {
     return <div className={style}><Child {...this.props} /></div>
