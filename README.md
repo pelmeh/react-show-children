@@ -2,7 +2,7 @@
 Base for: accordions, hide/show-elements, multi-view components, dynamics lists
 
 ## Features
-* Show all children
+* Show all children (by default)
 
 ``` 
 <Show all={true}>
